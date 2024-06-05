@@ -1,6 +1,6 @@
 # workshop
 
-A new Flutter project.
+application with rapid development using flutter
 
 ## Getting Started
 
